@@ -1,5 +1,6 @@
 # plPinkProject
-
+  - Section : 1CPE
+  - Subject : BES241
 # Members
   - Carl Andrew C. Peñaranda (Leader)
   - Trixxie Marie De Asis (Rapporteur)
