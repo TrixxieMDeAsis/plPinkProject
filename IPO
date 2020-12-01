@@ -1,6 +1,5 @@
 # input:
-    -answer all the question in the quiz
-    -the quiz have 5 categories
+    -answer all the question in the quiz by the user (5 categories : 120 questions)
 # process:
     -user will only answer based on the choices provided in the quiz
     -record score in each category
