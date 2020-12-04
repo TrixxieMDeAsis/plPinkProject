@@ -11,11 +11,13 @@
   - The quiz game is based from trivias.
   - The quiz will have a overall total questions of 120.
   -	The 120 questions in the quiz will be divided in 5 types of test:
+  
       -Multiple Choice
       -Fill-in-the-blank
       -Identification
       -True or False
   - The quiz will have 5 categories and will be shuffled in every question:
+  
       o	TECHNOLOGY
       o	GEOGRAPHY
       o	FOODS AND DRINKS
