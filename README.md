@@ -9,7 +9,7 @@
 # Features
   - The application will be generating a quiz game for a random user to answer.
   - The quiz game is based from trivias.
-  - The quiz will have a overall total questions of 120.
+  - The quiz will have an overall total of 120 questions.
   -	The 120 questions in the quiz will be divided in 5 types of test:
   
       -Multiple Choice
@@ -19,6 +19,8 @@
       -Identification
       
       -True or False
+      
+      -Enumeration
       
   - The quiz will have 5 categories and will be shuffled in every question:
   
