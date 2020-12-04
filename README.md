@@ -13,16 +13,25 @@
   -	The 120 questions in the quiz will be divided in 5 types of test:
   
       -Multiple Choice
+      
       -Fill-in-the-blank
+      
       -Identification
+      
       -True or False
+      
   - The quiz will have 5 categories and will be shuffled in every question:
   
       o	TECHNOLOGY
+      
       o	GEOGRAPHY
+      
       o	FOODS AND DRINKS
+      
       o	SPORTS
+      
       o	ANIMALS
+      
   - Some questions will have a hint provided
   - The score will be displayed after playing the quiz
   
