@@ -47,4 +47,5 @@
   # Output:
     -the answers will be displayed after answering the category
     -total scores will be displayed
-   
+# Flowchart
+![](images/filename%20flowchat.png)
